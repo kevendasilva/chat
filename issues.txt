@@ -1,0 +1,20 @@
+# Leitura de comandos
+- Criar painel para leitura dos comandos [ X ]
+- Interpretar os comandos digitados pelo usuário [ ]
+
+# Entrar
+- Janela para o usuário informar as infos do servidor [ X ]
+- Verificar se o usuário já está cadastrado [ X ]
+
+# Definição de salas
+- Separar usuários em salas [ ]
+
+# Usuários
+- Listar usuários do chat [ ]
+
+# Nick
+- Mudança do nome do usuário [ X ]
+- Notificar os membros da mudança [ X ]
+
+# Saídas
+- Enviar mensagem no chat, notificando os demais usuários da saída do usuário [ ]
